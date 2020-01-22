@@ -34,7 +34,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="bg-shape1"><img src="assets/img/bg-shape1.png" alt="image"></div>
             <div class="shape-img9"><img src="assets/img/shape-image/4.png" alt="image"></div>
         </section>
